@@ -16,7 +16,7 @@ module.exports = {
 		jade: 'src/jade/**/*.jade',
 		less: 'src/less/*.less',
 		css: 'src/css/**/*.css',
-		stylues: 'src/stylus/**/*.styl',
+		stylus: 'src/stylus/**/*.styl',
 		compiledCss: 'compile/css/**/*.css'
 	},
 	
